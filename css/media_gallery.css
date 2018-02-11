@@ -1,0 +1,33 @@
+ 
+@media screen and (max-width: 992px) and (orientation: landscape) {
+	
+	 .dropdown{
+	margin-top:28px;
+	margin-left:40px;
+ }	
+ 
+}
+
+@media screen and (max-width:768px) and (orientation:portrait) {
+	.dropdown{
+		margin-left:-50px;
+	}
+	
+}
+
+@media screen and (max-width:480px) {
+	
+	
+	.navigation li:first-child{
+		margin-left:0px;
+	}
+	
+	.navigation {
+		display:flex;
+		flex-flow: column wrap;
+	}
+	
+}
+
+ 
+ 

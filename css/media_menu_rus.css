@@ -1,0 +1,181 @@
+ 
+@media screen and (max-width: 992px) and (orientation: landscape) {
+	
+	.col-lg-5{
+		margin-top:-25px;
+		margin-right:0px;
+		
+	}
+	
+	
+	.carousel-inner {
+		width:100%;
+		height:100%;
+	}
+	
+	
+	.picture > img:first-child{
+		width:40%;
+		height:40%;
+	}
+	.menuTitle{
+		margin-top:-230px;
+		margin-left:-100px;
+		float:right;
+	}
+	
+	 .dropdown{
+	margin-top:28px;
+	margin-left:0px;
+ }	
+ .navigation li:first-child{
+		margin-left:0px;
+	}
+	
+	.navigation {
+		display:flex;
+		flex-flow: column wrap;
+	}
+	.price{
+		margin-top:-50px;
+		margin-left:50px;
+		
+	}
+	.col-lg-1{
+		margin-left:50px;
+	}
+	.forMedia > img{
+		width:20%;
+		height:20%;
+	}
+	.forMediaGet{
+		float:left;
+		margin-left:150px;
+		display:table;
+		
+	}
+	.mediaImg > ul{
+	
+	list-style-position: inside;
+  -moz-column-count: 2; /* Firefox */
+  -webkit-column-count: 2; /* Safari and Chrome */
+  column-count: 2;
+  list-style-type: decimal;
+  height: 200px;
+}
+	
+	.drinkList{
+		margin-left:23%;
+		margin-bottom:5%;
+		float:left;
+		
+	}
+	.drinks{
+		float:left;
+		margin-left:25px;
+	}
+}
+
+@media screen and (max-width:768px) {
+	
+	.col-md-3{
+		margin-top:-20px;
+		margin-right:0px;
+	}
+	
+	
+	.carousel-inner {
+		width:100%;
+		height:100%;
+	}
+	.picture > img:first-child{
+		width:40%;
+		height:40%;
+	}
+	
+	.dropdown{
+		margin-left:-80px;
+	}
+
+	.navigation li:first-child{
+		margin-left:0px;
+	}
+	
+	.navigation {
+		display:flex;
+		flex-flow: column wrap;
+	}
+	.menuTitle{
+		margin-top:-150px;
+		margin-left:-100px;
+		float:right;
+	}
+	
+}
+
+@media screen and (max-width:480px) {
+	
+	
+	.navigation li:first-child{
+		margin-left:0px;
+	}
+	
+	.navigation {
+		display:flex;
+		flex-flow: column wrap;
+	}
+	.menuTitle{
+		margin-top:-100px;
+		margin-left:-40px;
+		float:right;
+		
+	}
+	.carousel-inner {
+		width:100%;
+		height:100%;
+	}
+	
+	
+	.picture > img:first-child{
+		width:40%;
+		height:40%;
+	}
+	
+	.mediaImg {
+	float:left;
+	display: flex;
+    flex-flow: column wrap;	
+	}
+	.forMediaGet{
+		float:left;
+	}
+	.forMedia > img {
+		width:30%;
+		height:30%;
+	}
+	.price {
+	margin-top:-5px;
+	margin-left:-25px;
+	}
+	.col-xs-1{
+		margin-top:-5px;
+		margin-left:-50px;
+	}
+	.drinkList{
+		margin-left:5%;
+		margin-bottom:5%;
+		float:left;
+		
+	}
+	.drinks{
+		float:left;
+		margin-left:-40px;
+	}
+	.drinks > p {
+		font-size:14px;
+		margin-left:-20px;
+	}
+}
+
+ 
+ 

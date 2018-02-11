@@ -1,0 +1,104 @@
+html,body{
+	height:100%;
+	
+}
+
+body{
+background:linear-gradient(to top right,#2E3192,#1BFFFF) no-repeat;
+background-attachment:scroll;
+
+-ms-filter: "progid:DXImageTransform.Microsoft.gradient (GradientType=0, startColorstr=#2e3192, endColorstr=#1bffff)"; /* IE 8-9 */
+background: -webkit-linear-gradient(right, #2E3192,#1BFFFF); /* Safari 5.1, iOS 5.0-6.1, Chrome 10-25, Android 4.0-4.3 */
+background: -moz-linear-gradient(right, #2E3192,#1BFFFF); /* Firefox 3.6-15 */
+background: -o-linear-gradient(right, #2E3192,#1BFFFF); /* Opera 11.1-12 */
+background: linear-gradient(to right,#2E3192,#1BFFFF); /* Opera 15+, Chrome 25+, IE 10+, Firefox 16+, Safari 6.1+, iOS 7+, Android 4.4+ */
+}
+
+.menu{
+	background:#666664;
+	 opacity: 0.6;
+	
+}
+.col-lg-5{
+	margin-right:45px;
+	margin-top:5px;
+	font-family: 'Dancing Script', cursive;
+	color:#afd0c7;
+	font-size:14px;
+}
+
+.colorist{
+	color:#1ecea8;
+}
+
+.navigation{
+	font-size:18px;
+	padding-top:1px;
+	
+	
+}
+.dropdown{
+	color:#000000;
+}
+
+.knop {
+	margin-top:-28px;
+	margin-right:25px;
+	float:right;
+}
+#carousel{
+	max-width:1200px;
+	max-height:800px;
+	margin:30px 40px 50px 80px;
+	
+}
+.picture{
+float:left;
+margin-right:50px;
+}
+.Ingridients{
+	font-family:'Courgette', cursive;;
+	color:#6f7069;
+	font-size:20px;
+	margin:20px 20px 20px 20px;
+	padding:10px 20px 20px 40px;
+}
+ li {
+    list-style-type: none; 
+	margin-bottom:20px;
+	margin-left:20px;
+	
+   }
+   ul {
+	margin-top:20px;
+    margin-bottom:20px;
+    margin-left:20px; 
+   }
+.menuTitle{
+	padding-left:80px;
+	padding-bottom:20px;
+}
+.price{
+	
+	float:left;
+	position:absolute;
+	right:50px;
+	font-size:20px;
+}
+.col-lg-1{
+	margin-top:100px;
+}
+.fon{
+	background-image:url( pic/2.jpg);
+	width:1200px;
+	height:600px;
+}
+.drinkList{
+	color:#000000;
+	text-shadow: 0 0 5px #ffffff, 0 0 10px #ffffff, 0 0 20px #ffffff, 0 0 40px #00ff00, 0 0 80px #00ff00, 0 0 90px #00ff00, 0 0 100px #00ff00, 0 0 150px #00ff00;
+}
+.col-lg-12{
+	font-family:'Courgette', cursive;;
+	color:#6f7069;
+	font-size:20px;
+}

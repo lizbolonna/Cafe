@@ -1,0 +1,13 @@
+body{
+background:linear-gradient(to top right,#2E3192,#1BFFFF) no-repeat;
+background-attachment:scroll;
+
+-ms-filter: "progid:DXImageTransform.Microsoft.gradient (GradientType=0, startColorstr=#2e3192, endColorstr=#1bffff)";
+background: -webkit-linear-gradient(right, #2E3192,#1BFFFF);
+background: -moz-linear-gradient(right, #2E3192,#1BFFFF);
+background: -o-linear-gradient(right, #2E3192,#1BFFFF); 
+background: linear-gradient(to right,#2E3192,#1BFFFF);
+}
+.firstPicture{
+	margin-bottom:25px;
+}

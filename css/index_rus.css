@@ -1,0 +1,91 @@
+body{
+	 overflow-x:hidden;
+	 background-attachment: scroll;
+	-webkit-background-size: 100%;
+        -moz-background-size:100%;
+        -o-background-size: 100%;
+        background-size: 100%;
+		background-color:#afd0c7;
+		
+		
+}
+.parallax-window {
+    min-height: 700px;
+    background: transparent;
+	margin-bottom:5px;
+	
+	
+}
+.menu{
+	background:#666664;
+	 opacity: 0.6;
+	
+}
+.col-lg-5{
+	margin-right:45px;
+	margin-top:-10px;
+	font-family: 'Dancing Script', cursive;
+	color:#afd0c7;
+	font-size:14px;
+}
+
+.colorist{
+	color:#1ecea8;
+}
+
+.navigation{
+	font-size:18px;
+	padding-top:8px;
+	
+	
+}
+.dropdown{
+	color:#000000;
+}
+
+.knop {
+	margin-top:-28px;
+	margin-right:25px;
+	float:right;
+}
+.welcomeText{
+	font-family: 'Marck Script', cursive;
+	font-size:85px;
+	color:#e5e716;
+	text-align:right; 
+	margin:100px 25px 15px 15px;
+	padding:25px;
+}
+.col-lg-6{
+	text-align:center;
+	color:#5db329;
+	margin-bottom:15px;
+	font-family: 'Pacifico', cursive;
+	margin:50px 25px 15px 15px;
+	padding:25px;
+}
+.hypertext{
+	margin-top:25px;
+	font-size:25px;
+}
+.title3{
+	margin:20px 10px 40px 10px;
+	color:#fcc704;
+	text-decoration:underline;
+}
+.col-lg-4{
+	float:right; 
+	padding:70px 15px 15px 15px;
+	font-size:35px;
+	color:#36ea0d;
+	font-family: 'Indie Flower', cursive;
+}
+address{
+	margin:50px 40px 10px 10px;
+	
+}
+#footer{
+	padding-top:650px;
+	bottom:100%;
+}
+	
